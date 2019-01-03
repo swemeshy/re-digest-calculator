@@ -1,4 +1,4 @@
-# re-digest-calculator
+# Restriction Enzyme Digest Calculator
 Short description: Calculates the lengths of resulting DNA pieces given a plasmid's length and all cut sites
 
 
