@@ -2,7 +2,7 @@
 Short description: Calculates the lengths of resulting DNA pieces given a plasmid's length and all cut sites
 
 
-This python script can be run in the command line. The script takes in a string of numbers
+This python script can be run in the terminal. The script takes in a string of numbers
 separated by commas. Both of the following formats are acceptable:
 
 12, 34, 56, 78
